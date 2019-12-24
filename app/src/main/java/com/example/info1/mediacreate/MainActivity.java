@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
-        Log.d("진선미", "onCreate");
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
